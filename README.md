@@ -8,7 +8,7 @@ My interests are :
   - Animation 
   - Graphic designing
 - :pen: I am learning 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width = "90" heigth = "60" />
 - :woman_technologist: All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://github.com/adrijachatterjee)
 - :e-mail: How to reach me **adrijachatterjeegcect@gmail.com**
 
