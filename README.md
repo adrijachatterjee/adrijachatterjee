@@ -13,9 +13,8 @@ My interests are :
 - :e-mail: How to reach me: **adrijachatterjeegcect@gmail.com**
 
 <p align="left"><a href="https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues">
-<img src="https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues" width="400" height="200"/></a>
-</p><p align="right"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact" width="400" height="200"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues" width="400" height="200"/></a> <span align="right"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact" width="400" height="200"/></a></span>
 </p>
 
 <p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee&theme=dark">
