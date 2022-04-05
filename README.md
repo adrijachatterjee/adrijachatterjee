@@ -7,5 +7,5 @@ Web development (preferred stack- MERN)
 UI designing
 Animation 
 Graphic designing
-- 👨‍💻 All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://ayush-jha/)
-- 👨‍💻 All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://github.com/adrijachatterjee)
+- :woman_technologist: All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://ayush-jha/)
+- :woman_technologist: All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://github.com/adrijachatterjee)
