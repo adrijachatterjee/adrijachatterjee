@@ -7,6 +7,8 @@ My interests are :
   - UI designing
   - Animation 
   - Graphic designing
+- :pen: I am learning 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
 - :woman_technologist: All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://github.com/adrijachatterjee)
 - :e-mail: How to reach me **adrijachatterjeegcect@gmail.com**
 
@@ -25,6 +27,9 @@ My interests are :
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="60"/> </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="60"/> </a> 
      <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="90" height="60"/> </a> 
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/react-native.png" alt="React" width="90" height="60"/> </a> 
-       <a href="https://threejs.org/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="ThreeJS" width="90" height="60"/> </a> 
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="90" height="60"/> </a> 
+       <a href="https://nextjs.org/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="ThreeJS" width="90" height="60"/> </a> 
+            <a href="https://mui.com/" target="_blank"> 
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="ThreeJS" width="90" height="60"/> </a> 
   
