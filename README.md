@@ -15,9 +15,7 @@ My interests are :
 ![Adrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact)](https://github.com/a-jha383/github-readme-stats)
 
-<p align ="center" width = "45%"> <a href="https://github-readme-stats.vercel.app/api?username=adrijachatterjee"><img src="https://github-readme-stats.vercel.app/api?username=adrijachatterjee&hide=stars&count_private=true&show_icons=true" width="300" height="200"/></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima&exclude_repo=quiz"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&exclude_repo=quiz&layout=compact&langs_count=6" width="300" height="125"/></a></p>
 <p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee&theme=dark">
-  ![Adrija's streak stats]
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee&theme=dark" width="400" height="200"/></a>
 </p>
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=adrijachatterjee"><img src="https://github-profile-trophy.vercel.app/?username=adrijachatterjee"/></a> </p>
