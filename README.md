@@ -8,3 +8,5 @@ My interests :
   - Animation 
   - Graphic designing
 - :woman_technologist: All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://github.com/adrijachatterjee)
+- :e-mail: How to reach me **adrijachatterjeegcect@gmail.com**
+![Adrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues)
