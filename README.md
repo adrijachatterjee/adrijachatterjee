@@ -13,12 +13,12 @@ My interests are :
 - :e-mail: How to reach me **adrijachatterjeegcect@gmail.com**
 
 ![Adrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact)](https://github.com/a-jha383/github-readme-stats)
 
 ![Adrija's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee) 
 
 ![Profile views](https://gpvc.arturio.dev/adrijachatterjee)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact)](https://github.com/a-jha383/github-readme-stats)
 
 ### Programming Languages :
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="90" height="60"/> </a> 
