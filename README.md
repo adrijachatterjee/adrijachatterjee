@@ -32,4 +32,14 @@ My interests are :
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="ThreeJS" width="90" height="60"/> </a> 
             <a href="https://mui.com/" target="_blank"> 
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="ThreeJS" width="90" height="60"/> </a> 
-  
+              
+### Backend Development :
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="90" height="60"/> </a>
+  <a href="https://expressjs.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="nodejs" width="90" height="60"/> </a>
+### Database :
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="60"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="90" height="60"/> </a> 
+### Backend as a Service(BaaS) :
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="90" height="60"/> </a>
+<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"" width="90" height="60"/> </a>
