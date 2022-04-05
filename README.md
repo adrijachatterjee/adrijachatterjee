@@ -13,7 +13,7 @@ My interests are :
 - :e-mail: How to reach me **adrijachatterjeegcect@gmail.com**
 
 ![Adrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact)](https://github.com/a-jha383/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact)](https://github.com/a-jha383/github-readme-stats)
 
 ![Adrija's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee) 
 
