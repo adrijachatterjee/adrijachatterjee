@@ -14,8 +14,6 @@ My interests are :
 
 ![Adrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues)
 
-![Adrija's Activity Graph](https://activity-graph.herokuapp.com/graph?username=adrijachatterjee)  
-
 ![Adrija's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee) 
 
 ![Profile views](https://gpvc.arturio.dev/adrijachatterjee)
