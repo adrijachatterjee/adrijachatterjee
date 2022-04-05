@@ -36,16 +36,16 @@ My interests are :
               
 ### Backend Development :
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="90" height="60"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> 
+    <a href="https://expressjs.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="nodejs" width="90" height="60"/> </a>
 ### Database :
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="60"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="90" height="60"/> </a> 
 ### Backend as a Service(BaaS) :
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="90" height="60"/> </a>
-<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="90" height="60"/> </a>
+  <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="90" height="60"/> </a>
 
 ### System (OS) :
-  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/240px-Windows_logo_-_2012.svg.png" alt="windows" width="60" height="60"/> </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
+<a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/240px-Windows_logo_-_2012.svg.png" alt="windows" width="60" height="60"/> </a>
+    <a href="https://ubuntu.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Kali" width="90" height="60"/> </a>
