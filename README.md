@@ -10,7 +10,7 @@ My interests are :
 - :pen: I am currently learning 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width = "45" heigth = "30" />
 - :woman_technologist: All of my projects are available at  [![Generic badge](https://img.shields.io/badge/GITHUB-1abc9c.svg)](https://github.com/adrijachatterjee)
-- :e-mail: How to reach me **adrijachatterjeegcect@gmail.com**
+- :e-mail: How to reach me: **adrijachatterjeegcect@gmail.com**
 
 ![Adrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact)](https://github.com/a-jha383/github-readme-stats)
