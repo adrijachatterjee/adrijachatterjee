@@ -1,6 +1,6 @@
 ## Kon'nichiwa! I am Adrija :cherry_blossom:
 ### I am a full-stack developer from India
-<p align= "center">![Image](https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966) </p>
+![Image](https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966)
 #### I am a junior year Computer Science and Engineering(CSE) student. I am passionate about creating technologies that make life easier.
 My interests are :
   - Web development (preferred stack- MERN)
@@ -15,7 +15,13 @@ My interests are :
 ![Adrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact)](https://github.com/a-jha383/github-readme-stats)
 
-![Adrija's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee) 
+<p align ="center" width = "45%"> <a href="https://github-readme-stats.vercel.app/api?username=adrijachatterjee"><img src="https://github-readme-stats.vercel.app/api?username=adrijachatterjee&hide=stars&count_private=true&show_icons=true" width="300" height="200"/></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima&exclude_repo=quiz"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&exclude_repo=quiz&layout=compact&langs_count=6" width="300" height="125"/></a></p>
+<p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee&theme=dark">
+  ![Adrija's streak stats]
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee&theme=dark" width="400" height="200"/></a>
+</p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=adrijachatterjee"><img src="https://github-profile-trophy.vercel.app/?username=adrijachatterjee"/></a> </p>
+ 
 
 ![Profile views](https://gpvc.arturio.dev/adrijachatterjee)
 
