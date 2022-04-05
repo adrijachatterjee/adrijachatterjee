@@ -1,7 +1,7 @@
 ## Hi there , I am Adrija :cherry_blossom:
 ### I am a full-stack developer from India
 ![Image](https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966)
-#### I am a junior year Computer Science and Engineering(CSE) student. I am passionate about creating new things to make life easier.
+#### I am a junior year Computer Science and Engineering(CSE) student. I am passionate about creating technologies that make life easier.
 My interests are :
   - Web development (preferred stack- MERN)
   - UI designing
@@ -13,6 +13,12 @@ My interests are :
 - :e-mail: How to reach me **adrijachatterjeegcect@gmail.com**
 
 ![Adrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrijachatterjee&count_private=true&theme=synthwave&hide=issues)
+
+![Adrija's Activity Graph](https://activity-graph.herokuapp.com/graph?username=adrijachatterjee)  
+
+![Adrija's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adrijachatterjee) 
+
+![Profile views](https://gpvc.arturio.dev/adrijachatterjee)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrijachatterjee&layout=compact)](https://github.com/a-jha383/github-readme-stats)
 
@@ -38,9 +44,11 @@ My interests are :
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="90" height="60"/> </a>
     <a href="https://expressjs.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="nodejs" width="90" height="60"/> </a>
+            
 ### Database :
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="60"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="90" height="60"/> </a> 
+    
 ### Backend as a Service(BaaS) :
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="90" height="60"/> </a>
   <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="90" height="60"/> </a>
@@ -49,3 +57,17 @@ My interests are :
 <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/240px-Windows_logo_-_2012.svg.png" alt="windows" width="60" height="60"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Kali" width="90" height="60"/> </a>
+            
+ ### Other :
+  <a href="https://graphql.org/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="photoshop" width="90" height="60"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="AutoCAD" width="90" height="60"/> </a>
+            
+### Connect with me:
+
+<a href="https://linkedin.com/in/ayush-jha-87b976130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jha-87b976130" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adrija_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushj383" height="30" width="40" /></a>
+<a href="https://leetcode.com/adrijachatterjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhaa27603" height="30" width="40" /></a>
+
+
