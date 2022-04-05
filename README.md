@@ -1,4 +1,4 @@
-## Kon'nichiwa! I am Adrija <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif"> :cherry_blossom:
+## Kon'nichiwa!<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif"> I am Adrija :cherry_blossom:
 ### I am a full-stack developer from India
 ![Image](https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966)
 #### I am a junior year Computer Science and Engineering(CSE) student. I am passionate about creating technologies that make life easier.
